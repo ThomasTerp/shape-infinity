@@ -1,6 +1,5 @@
-<h1 align="center">
-    <img width="900" src="https://user-images.githubusercontent.com/3063873/81179161-91685400-8fa9-11ea-9a91-50d15ab052c0.png" alt="logo"/>
-</h1>
+![header](https://user-images.githubusercontent.com/3063873/81179597-2b300100-8faa-11ea-956e-601f9386908b.png)
+
 
 # Shape Infinity
 Procedurally generated shape infinity art.
