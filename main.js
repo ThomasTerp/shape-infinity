@@ -1,4 +1,4 @@
-console.log("Starting procedural shape generation...");
+console.log("Starting procedural shape infinity generation...");
 
 //Modules
 const {createCanvas} = require("canvas");
@@ -279,7 +279,7 @@ const canvas = createRandomShapeInfinity().generate();
 
 const out = fs.createWriteStream(__dirname + filePath);
 out.on("finish", () => {
-	console.log(`Saved procedurally generated shape as ${filePath}`);
+	console.log(`Saved procedurally generated shape infinity as ${filePath}`);
 });
 
 const stream = canvas.createPNGStream();
