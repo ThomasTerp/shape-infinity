@@ -1,0 +1,28 @@
+{
+	"name": "shape-infinity",
+	"version": "1.0.0",
+	"description": "Procedurally generated shape infinity art.",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"procedural",
+		"random",
+		"randomly",
+		"generative",
+		"generation",
+		"generated",
+		"shape",
+		"shapes",
+		"canvas",
+		"art"
+	],
+	"author": "ThomasTerp",
+	"license": "MIT",
+	"dependencies": {
+		"canvas": "^2.6.1",
+		"gradient2": "^1.0.5",
+		"randomcolor": "^0.5.4"
+	}
+}
