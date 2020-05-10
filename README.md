@@ -17,3 +17,7 @@ https://twitter.com/ShapeInfinity
 2. Enter `node main.js`
 
 An image will be outputted to the `output` directory.  
+
+# Bugs
+* Rarely the output file will be blank (too much memory used?)
+* Sometimes the result will be appear to be a single color image (all the random colors happened to be similar)
